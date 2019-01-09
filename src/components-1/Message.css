@@ -1,0 +1,8 @@
+.list-group-item button{
+  display: none;
+}
+
+.list-group-item:hover button{
+  overflow: hidden;
+  display: inline-block;
+}
